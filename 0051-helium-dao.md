@@ -54,7 +54,7 @@ This proposal impacts all current and future stakeholders in the Helium Communit
 
 We propose that each DNP operates its own subDAO and submits information to the broader Helium Network via Oracles. Each DNP has its own economic and governance layer through its subDAO, which comprises all its DNT holders.
 
-[https://lh5.googleusercontent.com/vsPbCgYmMYEfNIomievnmgqD29bN2XCUMoF3FYb0ukKwtdKWofdVAZ2fe3_iRylEF8SpHHW8jj0-IUq2z5LXk5IdOtcYCgEuKVpOlxQ2BlChdagv7oAbQr0Gu_gIh6631QZzwApv](https://lh5.googleusercontent.com/vsPbCgYmMYEfNIomievnmgqD29bN2XCUMoF3FYb0ukKwtdKWofdVAZ2fe3_iRylEF8SpHHW8jj0-IUq2z5LXk5IdOtcYCgEuKVpOlxQ2BlChdagv7oAbQr0Gu_gIh6631QZzwApv)
+![https://lh5.googleusercontent.com/vsPbCgYmMYEfNIomievnmgqD29bN2XCUMoF3FYb0ukKwtdKWofdVAZ2fe3_iRylEF8SpHHW8jj0-IUq2z5LXk5IdOtcYCgEuKVpOlxQ2BlChdagv7oAbQr0Gu_gIh6631QZzwApv](https://lh5.googleusercontent.com/vsPbCgYmMYEfNIomievnmgqD29bN2XCUMoF3FYb0ukKwtdKWofdVAZ2fe3_iRylEF8SpHHW8jj0-IUq2z5LXk5IdOtcYCgEuKVpOlxQ2BlChdagv7oAbQr0Gu_gIh6631QZzwApv)
 
 New DNPs are added to the Helium DAO through the veHNT denominated governance process as defined below.
 
