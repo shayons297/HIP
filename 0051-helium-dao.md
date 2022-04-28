@@ -1,12 +1,11 @@
-# HIP 51: 4/28
+# HIP 51: Technical and Economic Constructions for Scaling the Helium Network
 
-HIP 51: Technical and Economic Constructions for Scaling the Helium Network
-
-Authors: Tushar, Shayon, Abhay
-
-Category: Economic / Technical
-
-Status: Work in progress
+- Authors: [@tjain-mcc](https://github.com/tjain-mcc), [@shayons297](htts://github.com/shayons297)
+- Start Date: 2022-01-04
+- Category: Economic, Technical
+- Original PR: https://github.com/helium/HIP/pull/335
+- Tracking Issue: https://github.com/helium/HIP/issues/338
+- Status: Draft
 
 # **Summary**
 
